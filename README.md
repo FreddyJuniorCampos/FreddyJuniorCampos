@@ -11,7 +11,7 @@
 
 ### I am...
 * 🎓 Electronic Engineer graduated from **[UNEXPO-POZ](https://poz.virtualunexpo.com/)**
-* 👨‍💻 Mid-level Developer JavaScript and Python
+* 👨‍💻 Junior Developer JavaScript.
 
 
 ### In Progress
